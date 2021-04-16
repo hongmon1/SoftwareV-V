@@ -5,6 +5,7 @@ public class TestHello {
         System.out.println("Test build");
 
         System.out.println("new fork");
+        System.out.println("pull");
     }
 
 }
