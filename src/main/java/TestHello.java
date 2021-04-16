@@ -4,7 +4,7 @@ public class TestHello {
         System.out.println("Test update");
         System.out.println("Test build");
 
-        System.out.println("pull request");
+        System.out.println("newly forked");
     }
 
 }
