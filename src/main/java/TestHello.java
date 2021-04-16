@@ -7,6 +7,7 @@ public class TestHello {
         System.out.println("new fork");
         System.out.println("pull");
         System.out.println("request");
+        System.out.println("integration plugin");
     }
 
 }
