@@ -22,6 +22,7 @@ public class TestHello {
 
         System.out.println("re_fork");
         System.out.println("change adminlist");
+        System.out.println("branch 변경");
     }
 
 }
