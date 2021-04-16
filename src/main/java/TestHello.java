@@ -28,6 +28,8 @@ public class TestHello {
 
         System.out.println("pull");
 
+        System.out.println("request");
+
     }
 
 }
